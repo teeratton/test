@@ -1,2 +1,2 @@
 for i in range(5):
-    print("2")
+    print("Hi")
